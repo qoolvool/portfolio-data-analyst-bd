@@ -118,7 +118,6 @@ A few things that would exist in a production system but are simplified here:
 ## Files
 
 ```
-ecommerce_marketplace.sql      — schema, seed data, views, analytical queries
-ecommerce_seed_extended.sql    — extended dataset (500 orders)
-README.md                      — this file
+marketplace_bd_porfolio - BD with data dump
+README.md               — this file
 ```
